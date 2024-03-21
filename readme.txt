@@ -36,3 +36,6 @@ What Does The Check Out Look Like?
 Enable/Disable :    Keep the “Enable/Disable” as “on” status (means you should tick it).
 Title:              Demo Payment Gateway.
 Description:        Your wanted description that will show in checkout.
+
+== Notes ==
+This project is base on the Platform I previously developed, https://github.com/atorpos/PA_v3
